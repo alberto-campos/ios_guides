@@ -1,0 +1,12 @@
+## Overview
+
+In this tutorial you will learn how to configure an iOS app to send and receive push notifications.
+
+## Parse Push
+
+First approach is to use the [Parse Push](https://parse.com/docs/ios/guide#push-notifications) service to send and receive push notifications. Or check this [tutorial.] (https://github.com/ParsePlatform/PushTutorial/tree/master/iOS)
+
+### Setup
+
+Check out [this official tutorial](https://parse.com/apps/quickstart#parse_data/mobile/ios/native/new) for a step-by-step guide to setting up push notifications with Parse. You can also review this [Parse Setup Guide](https://parse.com/docs/ios/guide) for full instructions.  
+
